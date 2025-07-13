@@ -1,12 +1,13 @@
-![logo](https://github.com/Vilaskle/Vilaskle/blob/main/Github-profile.jpg)
+<!--<img src="https://github.com/Vilaskle/Vilaskle/blob/main/Github-profile.jpg" hight="300" width="400"  />-->
+
 <h1 align="center">Hi 👋, I'm Vilas N Rathod</h1>
-<h3 align="center">A passionate Computer Science student from India</h3>
+<h3 align="center">A passionate Computer Science Engiineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1JPthEe1b1DAQI-k-8hpdG&ust=1752525529072000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLiSsr_Yuo4DFQAAAAAdAAAAABAE"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vilaskle&label=Profile%20views&color=0e75b6&style=flat" alt="vilaskle" /> </p>
 
-- 🌱 I’m currently learning **Computer Science**
+- 🌱 I’m currently learning **Computer Science **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vilaskle](https://github.com/Vilaskle)
 
